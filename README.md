@@ -43,6 +43,7 @@ EnvAlign/
 │   ├── __init__.py
 │   ├── visualizer.py         # 可视化图表
 │   └── report_generator.py   # HTML 报告生成
+├── usage research/           # 问卷和初步使用调研结果
 ├── results/                  # 输出目录（自动创建）
 └── README.md
 ```
